@@ -1,2 +1,5 @@
-# dataset-annotation-toolkit
-Automated transcription alignment and audio dataset validation toolkit.
+# Dataset Annotation & Validation Toolkit
+
+A command-line interface (CLI) tool designed for batch auditing audio datasets, verifying sample rates, detecting clipping artifacts, and aligning JSON metadata transcripts with raw WAV assets for LLM speech-to-speech training benchmarks.
+
+## Architecture
